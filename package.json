@@ -27,7 +27,7 @@
     "url": "https://github.com/5ran6/admin_dashboard.git/issues"
   },
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^5.0.0",
     "gulp-clean": "^0.4.0",
     "gulp-install": "^1.1.0",
